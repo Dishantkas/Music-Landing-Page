@@ -1,0 +1,169 @@
+*{
+    margin: 0;
+    padding: 0;
+}html, 
+ body{
+    height: 100%;
+    
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    line-height: 1.4;
+    scroll-behavior: smooth;
+}.nav{
+    background: #270082;
+   color: white;
+}
+.nav_1{
+    padding: 20px 120px;
+    justify-content: space-between;
+    gap: 10px;
+    display: flex;
+}.nav_11{
+    display: flex;
+    gap: 30px;
+    padding: 5px 0px;
+}.hero{
+    color: white;
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(hero_image.png);
+    display: grid;
+    place-items: center;
+    text-align: center;
+    background-attachment: fixed;
+    
+ 
+}.hero_1 h1{
+    font-size: 72px;
+    padding: 0px 10px;
+    
+}.hero_1 h3{
+    font-size: 24px;
+    padding: 32px 10px;
+}.music{
+    height: 806px;
+    width: 100%;
+    background: #281154;
+    color: white;
+    display: grid;
+    place-items: center;
+    text-align: center;
+
+}.music_1{
+    margin-bottom: 408px;
+}
+.music_2{
+    
+    flex-direction: row;
+    gap: 10px;
+    font-size: 36px;
+    
+}.music_2 i{
+    padding: 10px;
+}
+
+.music_1 h3{
+    font-size: 18px;
+} .music_3{
+    padding: 37px 0px;
+}.music_51{
+    background: #DC0000;
+    padding: 15px 10px;
+    position: absolute;
+    margin-bottom: 70px;
+    padding: 10px;
+    border: 0px solid black;
+    color: white;
+}.music_6{ 
+    position: absolute;
+    margin-top: 50px;
+    padding: 10px;
+} 
+    
+.ipad{
+    margin-top: -350px;
+    position: absolute;
+    margin-left: 180px;
+    
+}.readmore{
+    text-align: center;
+    margin-top: 300px;
+    padding: 50px 50px;
+}.readmore h3{
+    padding: 20px;
+    font-size: 24px;
+}.readmore button{
+    background: #37008E;
+    color: white;
+    padding: 15px 15px;
+    font-size: 18px;
+
+}.readmore h4{
+    padding: 30px 20px;
+    
+}.mac{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}.entertainment{
+    background-image: url(video.png);
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    display: grid;
+    place-items: center;
+    text-align: center;
+    background-attachment: fixed;
+}.entertainment_1 h2{
+    padding: 20px 20px;
+}.redeem{
+    display: flex;
+    
+    gap: 50px;
+    padding: 100px 200px;
+}.redeem_1 p{
+    padding: 10px 0px;
+    
+}.redeem_1 button{
+    font-size: 18px;
+    background: #37008E;
+    border: 0px solid black;
+    color: white;
+    padding: 10px 15px;
+
+}.redeem_1 h5{
+    padding: 10px 0px;
+    
+}.line{
+    border: 1px solid black;
+    margin-bottom: 40px;
+    margin-top: 30px;
+    opacity: 30%;
+}.contact{
+    display: flex;
+    gap: 10px;
+    justify-content: space-between;
+    padding: 50px 200px;
+    background: #1B0058;
+    color: white;
+}.line1{
+    border: 1px solid rgb(255, 255, 255);
+    margin-bottom: 20px;
+    /* margin-top: 30px; */
+    opacity: 30%;
+    
+
+}ul{
+    list-style: none;
+    
+}.last{
+    text-align: center;
+    color: white;
+    background: #270082;
+    padding: 20px 30px;
+
+}
