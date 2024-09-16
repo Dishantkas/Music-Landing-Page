@@ -155,7 +155,7 @@
 }.line1{
     border: 1px solid rgb(255, 255, 255);
     margin-bottom: 20px;
-    /* margin-top: 30px; */
+   
     opacity: 30%;
     
 
@@ -168,8 +168,4 @@
     background: #270082;
     padding: 20px 30px;
 
-}@media (max-width: 600px){
-.ipad{
-    scale: 05;
-}
 }
