@@ -4,7 +4,7 @@
 }html, 
  body{
     height: 100%;
-    overflow-x: hidden;
+    
     font-family: "Roboto", sans-serif;
     font-weight: 300;
     line-height: 1.4;
@@ -166,4 +166,8 @@
     background: #270082;
     padding: 20px 30px;
 
+}@media (max-width: 600px){
+.ipad{
+    scale: 05;
+}
 }
